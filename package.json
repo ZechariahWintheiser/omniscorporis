@@ -1,0 +1,29 @@
+{
+  "name": "omniscorporis",
+  "version": "1.7.3",
+  "description": "ETH ERC20 standard contracts",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZechariahWintheiser/omniscorporis.git"
+  },
+  "author": "LaurenHagenes",
+  "license": "MIT",
+  "keywords": [
+    "eth",
+    "ipsam"
+  ],
+  "dependencies": {
+    "atquecumque": "^1.1.0",
+    "deseruntet": "^1.0.0",
+    "dolorullam": "^1.0.0",
+    "placeatodio": "^1.0.0",
+    "truffle": "4.1.13",
+    "truffle-hdwallet-provider": "0.0.5",
+    "utquo": "^1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ZechariahWintheiser/omniscorporis.git/issues"
+  },
+  "homepage": "https://github.com/ZechariahWintheiser/omniscorporis.git"
+}
